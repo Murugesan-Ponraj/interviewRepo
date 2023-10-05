@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7PPqE1rY9HSR7gP52QvTxY530lLJlR2lBFVVL4CFrbdRXhzSWwE/RCJwy9h+0ZmMEud4fCWM6UzwNg/jmhGEw==",
+  "success": true,
+  "projectFilePath": "D:\\oec-interview\\oec-interview\\Interview\\RL.BackEnd.Common\\RL.BackEnd.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murugesan\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

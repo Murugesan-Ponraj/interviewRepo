@@ -1,0 +1,12 @@
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\bin\Debug\net6.0\RL.BackEnd.Common.deps.json
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\bin\Debug\net6.0\RL.BackEnd.Common.dll
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\bin\Debug\net6.0\RL.BackEnd.Common.pdb
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.csproj.AssemblyReference.cache
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.AssemblyInfoInputs.cache
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.AssemblyInfo.cs
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.csproj.CoreCompileInputs.cache
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.dll
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\refint\RL.BackEnd.Common.dll
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\RL.BackEnd.Common.pdb
+D:\oec-interview\oec-interview\Interview\RL.BackEnd.Common\obj\Debug\net6.0\ref\RL.BackEnd.Common.dll
